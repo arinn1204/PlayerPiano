@@ -1,0 +1,11 @@
+
+
+
+// Instantiate the module
+AnodeClockDivider instance_name (
+    .Clock(Clock), 
+    .Reset(Reset), 
+    .DividedClock(DividedClock)
+    );
+
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Aaron/Dropbox/EE324/PlayerPiano/TopTest_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="TopTest" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="18" />
+   <wvobject fp_name="/TopTest/uut/KeyboardCode" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">KeyboardCode[7:0]</obj_property>
+      <obj_property name="ObjectShortName">KeyboardCode[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/KeyboardControl/FindDataBus/ValidT" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ValidT</obj_property>
+      <obj_property name="ObjectShortName">ValidT</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/KeyboardControl/FindDataBus/Valid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Valid</obj_property>
+      <obj_property name="ObjectShortName">Valid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/Segment" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Segment[6:0]</obj_property>
+      <obj_property name="ObjectShortName">Segment[6:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/Anode" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">Anode[7:0]</obj_property>
+      <obj_property name="ObjectShortName">Anode[7:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/ampPWM" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ampPWM</obj_property>
+      <obj_property name="ObjectShortName">ampPWM</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#00ffff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/KeyboardControl/FindDataBus/DataString" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DataString[10:0]</obj_property>
+      <obj_property name="ObjectShortName">DataString[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/KeyboardControl/FindDataBus/StopBit" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">StopBit</obj_property>
+      <obj_property name="ObjectShortName">StopBit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/KeyboardControl/FindDataBus/StartBit" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">StartBit</obj_property>
+      <obj_property name="ObjectShortName">StartBit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/PS2Data" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PS2Data</obj_property>
+      <obj_property name="ObjectShortName">PS2Data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/SoundMaker/SoundMaker/StaticFlag" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">StaticFlag</obj_property>
+      <obj_property name="ObjectShortName">StaticFlag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/SoundMaker/SoundMaker/RampFlag" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RampFlag</obj_property>
+      <obj_property name="ObjectShortName">RampFlag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/SoundMaker/SoundMaker/M" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">M[15:0]</obj_property>
+      <obj_property name="ObjectShortName">M[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/SoundMaker/SoundMaker/MS" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">MS[11:0]</obj_property>
+      <obj_property name="ObjectShortName">MS[11:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/Clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Clock</obj_property>
+      <obj_property name="ObjectShortName">Clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/KeyboardControl/FindDataBus/PS2ClockEdgeDetect/FallingEdge" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">FallingEdge</obj_property>
+      <obj_property name="ObjectShortName">FallingEdge</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/PS2Clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PS2Clk</obj_property>
+      <obj_property name="ObjectShortName">PS2Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopTest/uut/KeyboardControl/FindDataBus/PS2ClockEdgeDetect/RisingEdge" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">RisingEdge</obj_property>
+      <obj_property name="ObjectShortName">RisingEdge</obj_property>
+   </wvobject>
+</wave_config>

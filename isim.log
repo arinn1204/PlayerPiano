@@ -1,0 +1,273 @@
+ISim log file
+Running: C:\Users\Aaron\Dropbox\EE324\PlayerPiano\SMTest_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 900.00ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 840.00ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest.v" Line 44
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest.v" Line 44
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 114
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 115
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 118
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 113
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 139
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 140
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 142
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 145
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 138
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 149
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 150
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 152
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 155
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 148
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 179
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 180
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 182
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 184
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 187
+# step
+Stopped at time : 845 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 178
+# step
+Stopped at time : 850 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest.v" Line 44
+# step
+Stopped at time : 850 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest.v" Line 44
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest.v" Line 57
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 66
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 67
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 101
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 102
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 103
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 65
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 127
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 128
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 131
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 126
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 127
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 128
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 131
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 126
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest.v" Line 44
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest.v" Line 44
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 114
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 115
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 118
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 113
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 139
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 140
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 142
+# restart
+# run 1us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 1us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 850ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest.v" Line 57
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 67
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 68
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 102
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 103
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 104
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 66
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 128
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 129
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 132
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 127
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 128
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 129
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 132
+# step
+Stopped at time : 851 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 127
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest.v" Line 44
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SMTest.v" Line 44
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 115
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 116
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 119
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 114
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 140
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 141
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 143
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 146
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 139
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 150
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 151
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 153
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 156
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 149
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 180
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 181
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 183
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 185
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 188
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 179
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 67
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 68
+# step
+Stopped at time : 855 ns : File "C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundSM.v" Line 70
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 850ns
+# restart
+# run 850ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 850ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 850ns
+ISim P.20131013 (signature 0x7708f090)
+WARNING: A WEBPACK license was found.
+WARNING: Please use Xilinx License Configuration Manager to check out a full ISim license.
+WARNING: ISim will run in Lite mode. Please refer to the ISim documentation for more information on the differences between the Lite and the Full version.
+This is a Lite version of ISim.
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# restart
+# run 850ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# run 850ns
+The simulator has terminated in an unexpected manner.  Please review the ISim log (isim.log) for details.

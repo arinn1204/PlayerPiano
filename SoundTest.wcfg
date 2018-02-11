@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Aaron/Dropbox/EE324/PlayerPiano/SoundTester_isim_beh1.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="SoundTester" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/SoundTester/JA" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">JA</obj_property>
+      <obj_property name="ObjectShortName">JA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SoundTester/Clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Clock</obj_property>
+      <obj_property name="ObjectShortName">Clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SoundTester/KClock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">KClock</obj_property>
+      <obj_property name="ObjectShortName">KClock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SoundTester/btnCpuReset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">btnCpuReset</obj_property>
+      <obj_property name="ObjectShortName">btnCpuReset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SoundTester/KeyCode" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">KeyCode[7:0]</obj_property>
+      <obj_property name="ObjectShortName">KeyCode[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/SoundTester/Flag" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Flag</obj_property>
+      <obj_property name="ObjectShortName">Flag</obj_property>
+   </wvobject>
+</wave_config>

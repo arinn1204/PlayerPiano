@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+SevenSegmentDecoderWrap instance_name (
+    .Clock(Clock), 
+    .Enable(Enable), 
+    .KeyCode(KeyCode), 
+    .Anode(Anode), 
+    .Segment(Segment)
+    );
+
+

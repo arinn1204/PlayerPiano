@@ -1,0 +1,12 @@
+
+
+
+// Instantiate the module
+PulseShortener instance_name (
+    .Clock(Clock), 
+    .Reset(Reset), 
+    .isValid(isValid), 
+    .Valid(Valid)
+    );
+
+

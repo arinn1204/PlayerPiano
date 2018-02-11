@@ -1,0 +1,13 @@
+
+
+
+// Instantiate the module
+UART_TX_CTRL instance_name (
+    .SEND(SEND), 
+    .DATA(DATA), 
+    .CLK(CLK), 
+    .READY(READY), 
+    .UART_TX(UART_TX)
+    );
+
+

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Aaron/Dropbox/EE324/PlayerPiano/KeyboardTest_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="KeyboardTest" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/KeyboardTest/ScanData" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ScanData[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ScanData[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/uut/FindDataBus/KCode" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">KCode[7:0]</obj_property>
+      <obj_property name="ObjectShortName">KCode[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/uut/FindDataBus/DataString" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">DataString[10:0]</obj_property>
+      <obj_property name="ObjectShortName">DataString[10:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/uut/FindDataBus/DataValid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">DataValid</obj_property>
+      <obj_property name="ObjectShortName">DataValid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/uut/FindDataBus/SingleValid" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">SingleValid</obj_property>
+      <obj_property name="ObjectShortName">SingleValid</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/PS2Data" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PS2Data</obj_property>
+      <obj_property name="ObjectShortName">PS2Data</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/uut/FindDataBus/StartBit" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">StartBit</obj_property>
+      <obj_property name="ObjectShortName">StartBit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/uut/FindDataBus/StopBit" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">StopBit</obj_property>
+      <obj_property name="ObjectShortName">StopBit</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/uut/FindDataBus/Rising" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Rising</obj_property>
+      <obj_property name="ObjectShortName">Rising</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/PS2Clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">PS2Clk</obj_property>
+      <obj_property name="ObjectShortName">PS2Clk</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/uut/FindDataBus/Falling" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Falling</obj_property>
+      <obj_property name="ObjectShortName">Falling</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+   </wvobject>
+   <wvobject fp_name="/KeyboardTest/Clock" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">Clock</obj_property>
+      <obj_property name="ObjectShortName">Clock</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+   </wvobject>
+</wave_config>
